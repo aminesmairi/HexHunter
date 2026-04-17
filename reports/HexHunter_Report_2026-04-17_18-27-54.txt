@@ -1,0 +1,13 @@
+===== HEXHUNTER SCAN REPORT =====
+
+Folder: C:\Users\AMINE\Downloads\Amine Smairi - GUIDE TP4 NAT.pdf
+Date: 2026-04-17_18-27-54
+
+File: C:\Users\AMINE\Downloads\Amine Smairi - GUIDE TP4 NAT.pdf
+Risk: MEDIUM | Score: 1
+
+----- SUMMARY -----
+Total Files: 1
+Low Risk: 0
+Medium Risk: 1
+High Risk: 0

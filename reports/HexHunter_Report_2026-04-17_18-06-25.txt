@@ -1,0 +1,22 @@
+===== HEXHUNTER SCAN REPORT =====
+
+Folder: C:\Users\AMINE\Desktop\Comunication Test
+Date: 2026-04-17_18-06-25
+
+File: C:\Users\AMINE\Desktop\Comunication Test\client.py
+Risk: MEDIUM | Score: 2
+
+File: C:\Users\AMINE\Desktop\Comunication Test\generate_key.py
+Risk: LOW | Score: 0
+
+File: C:\Users\AMINE\Desktop\Comunication Test\myKey.key
+Risk: LOW | Score: 0
+
+File: C:\Users\AMINE\Desktop\Comunication Test\server.py
+Risk: MEDIUM | Score: 2
+
+----- SUMMARY -----
+Total Files: 4
+Low Risk: 2
+Medium Risk: 2
+High Risk: 0
